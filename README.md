@@ -1,2 +1,0 @@
-# Akeneo-CSV-import-remains-on-status-starting-
-when I attempted to upload a CSV file to Akeneo (2.0) the status remained on "starting" and the job was never completed. I didn't receive an error message. Also, I tried to define a path so that Akeneo could find the file. Unfortunately, in both cases the import didn't work. In order to conduct the import properly, I considered to use the correct attributes in the csv file.  Which detail have I overlooked on the import?  I am looking forward to your answers.  Many thanks in advance.
